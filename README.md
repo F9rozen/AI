@@ -70,7 +70,11 @@ It's a tool repositories and guideline for every make something COOL in 3 minute
 ### 税务
 
 ## 生产力提升
-### 写作
+### 内容生成
+- PPT制作
+- 文本生成
+- 图片生成
+- 视频生成/剪辑
 ### 数据处理 
 数据/文本 总结 处理
 ### 代码
